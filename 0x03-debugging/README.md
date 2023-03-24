@@ -4,4 +4,4 @@
 
 2-largest_number.c - This program prints out the largest of three numbers.
 
-3-print_remaining_days.c - This program converts a date to the day of year and determines how many days are left in the year taking a leap year into consideration.
+3-print_remaining_days.c - This program converts a date to the day of year and determines how many days are left in the year taking a leap year into considerations.
